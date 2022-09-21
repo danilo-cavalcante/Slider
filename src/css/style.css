@@ -70,24 +70,24 @@ body {
     background-color: white;
     margin-left: 180px;
     padding: 65px 60px;
-    width: 500px;/* width: 620px; */
+    width: 500px;
     border-radius: 10px;
 }
 
 .conteudo .titulo {
     margin-bottom: 80px;
-    font-size: 2rem;/* font-size: 5rem; */
+    font-size: 2rem;
     font-weight: 400;
 }
 
 .conteudo .texto {
-    font-size: 1.2rem;/* font-size: 25px; */
+    font-size: 1.2rem;
     font-weight: 300;
     margin-bottom: 45px;
 }
 
 .conteudo .botao {
-    font-size: 1.5rem;/* font-size: 30px; */
+    font-size: 1.5rem;
     font-weight: 700;
 }
 
